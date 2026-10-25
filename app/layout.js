@@ -9,13 +9,14 @@ const plusJakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata = {
-  title: "Mohammed Sameer Ahmed | Frontend Developer & BCA Student",
+  title: "Mohammed Sameer Ahmed | Frontend Developer & MCA Student",
   description:
-    "Personal portfolio of Mohammed Sameer Ahmed, a frontend developer and BCA student from Surat, Gujarat. Building clean, responsive web applications.",
+    "Personal portfolio of Mohammed Sameer Ahmed, a frontend developer and MCA student from Surat, Gujarat. Building clean, responsive web applications.",
   keywords: [
     "Mohammed Sameer Ahmed",
     "Frontend Developer",
-    "BCA Student",
+    "MCA Student",
+    "BCA Graduate",
     "Surat Developer",
     "Web Developer Gujarat",
     "JavaScript Developer",
@@ -28,9 +29,9 @@ export const metadata = {
     type: "website",
     locale: "en_US",
     url: "https://portfolio.vercel.app",
-    title: "Mohammed Sameer Ahmed | Frontend Developer & BCA Student",
+    title: "Mohammed Sameer Ahmed | Frontend Developer & MCA Student",
     description:
-      "Frontend developer and BCA student from Surat, Gujarat. Exploring modern web interfaces, JavaScript, and digital commerce.",
+      "Frontend developer and MCA student from Surat, Gujarat. Exploring modern web interfaces, JavaScript, and digital commerce.",
     siteName: "Mohammed Sameer Ahmed Portfolio",
   },
   icons: {

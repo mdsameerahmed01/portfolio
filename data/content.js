@@ -6,7 +6,7 @@
 export const personalData = {
   name: "Mohammed Sameer Ahmed",
   shortName: "Sameer",
-  role: "Frontend Developer | BCA Student",
+  role: "Frontend Developer | MCA Student",
   location: "Surat, Gujarat, India",
   timezone: "Asia/Kolkata", // IST (Indian Standard Time)
   email: "md.sameerahmed01@gmail.com",
@@ -21,7 +21,7 @@ export const personalData = {
     greeting: "Hello, I'm",
     headline: "Building clean, responsive web interfaces with focus and curiosity.",
     subtext:
-      "Frontend developer and BCA student based in Surat. I enjoy crafting modern, accessible websites, working with JavaScript, and managing online stores.",
+      "Frontend developer and MCA student based in Surat. I enjoy crafting modern, accessible websites, working with JavaScript, and managing online stores.",
     ctaProjects: "View Projects",
     ctaContact: "Contact Me",
   },
@@ -31,15 +31,15 @@ export const personalData = {
     title: "About Me",
     sectionNumber: "01",
     bio: [
-      "I am an aspiring frontend developer and final-year BCA student from Surat, Gujarat. I enjoy turning design concepts into functional, responsive web interfaces with clean HTML, CSS, and modern JavaScript.",
+      "I am an aspiring frontend developer and 1st year MCA student from Surat, Gujarat, having completed my BCA in 2026. I enjoy turning design concepts into functional, responsive web interfaces with clean HTML, CSS, and modern JavaScript.",
       "During my internship at Creative Web Infotech, I worked hands-on with JavaScript and user interface improvements. Alongside programming, I have practical experience in e-commerce operations, product listing, and store administration.",
       "I believe in continuous learning, writing understandable code, and building practical digital solutions with an honest, hard-working mindset.",
     ],
     quickInfo: [
       {
         label: "Education",
-        value: "BCA (Expected 2026)",
-        subvalue: "SASCMA College / VNSGU",
+        value: "MCA (1st Year)",
+        subvalue: "BCA Graduate (2026)",
       },
       {
         label: "Location",
@@ -179,14 +179,23 @@ export const personalData = {
     ],
     education: [
       {
+        degree: "Master of Computer Applications (MCA)",
+        institution: "Surat, Gujarat",
+        location: "Surat, Gujarat",
+        period: "2026 - Present",
+        status: "Currently Pursuing (1st Year)",
+        description:
+          "Advanced studies in computer applications, software engineering, modern web technologies, and system architecture.",
+      },
+      {
         degree: "Bachelor of Computer Applications (BCA)",
         institution:
           "SASCMA English Medium Commerce College (Veer Narmad South Gujarat University)",
         location: "Surat, Gujarat",
-        period: "Expected 2026",
-        status: "Currently Pursuing",
+        period: "Completed 2026",
+        status: "Graduated",
         description:
-          "Focusing on computer science fundamentals, object-oriented programming, database management, and web application development.",
+          "Graduated with core foundations in programming languages, data structures, database management, and web development.",
       },
       {
         degree: "Higher Secondary Certificate (12th)",

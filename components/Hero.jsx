@@ -36,7 +36,7 @@ export default function Hero() {
             <div className="flex flex-wrap items-center justify-center md:justify-start gap-2 text-sm sm:text-base font-medium text-sky-400 mb-5">
               <span>Frontend Developer</span>
               <span className="text-slate-600">&bull;</span>
-              <span>BCA Student</span>
+              <span>MCA Student</span>
               <span className="text-slate-600">&bull;</span>
               <span className="text-slate-400 font-normal">Surat, Gujarat</span>
             </div>
@@ -136,7 +136,7 @@ export default function Hero() {
                     {personalData.name}
                   </span>
                   <span className="text-[11px] text-slate-500 mt-1 font-mono">
-                    Frontend &bull; BCA
+                    Frontend &bull; MCA
                   </span>
                   <div className="mt-3 flex items-center gap-1 text-[10px] text-sky-400/80 font-mono px-2 py-0.5 rounded bg-white/[0.04] border border-white/5">
                     <Code2 className="w-3 h-3" />
